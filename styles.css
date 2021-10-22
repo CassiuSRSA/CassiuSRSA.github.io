@@ -23,11 +23,12 @@ body {
 .card-container {
   background-color: white;
   min-height: 70vh;
-  min-width: 375px;
+  min-width: 300px;
   max-width: 400px;
   text-align: center;
   border-radius: 20px;
   box-shadow: 0px 2px 5px -1px rgba(0,0,0,0.75);
+  margin: auto 10px;
 }
 
 /* hero image formatting*/
@@ -73,6 +74,10 @@ body {
 
 .plan-info {
   margin-left: 10px;
+}
+
+.plan-title {
+  font-size: 1.2rem;
 }
 
 .right-content {
