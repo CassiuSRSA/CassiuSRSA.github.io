@@ -1,0 +1,23 @@
+{
+  "name": "cassiusrsa.github.io",
+  "version": "1.0.0",
+  "description": "stats-preview-card-frontendMentor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CassiuSRSA/CassiuSRSA.github.io.git"
+  },
+  "keywords": [
+    "Sean",
+    "Brookstein"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CassiuSRSA/CassiuSRSA.github.io/issues"
+  },
+  "homepage": "https://github.com/CassiuSRSA/CassiuSRSA.github.io#readme"
+}
